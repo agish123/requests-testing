@@ -1,6 +1,6 @@
 # Requests Testing Repository
 
-This repository is used to track bugs identified during manual and exploratory testing of the Requests library. The source code being tested is located in the forked repository: https://github.com/<your-username>/requests.
+This repository is used to track bugs identified during manual and exploratory testing of the Requests library. The source code being tested is located in the forked repository: https://github.com/akish123/requests.
 
 ## Identified Bugs
 The following bugs have been logged in the Issues tab:
